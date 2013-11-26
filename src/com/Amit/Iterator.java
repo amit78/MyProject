@@ -12,10 +12,10 @@ public class Iterator {
         linkedlist.add("Item 0");
         linkedlist.add("Item 1");
         linkedlist.add("Item 2");
-        linkedlist.add("Item 3");
+        linkedlist.add("Item 9");
         linkedlist.add("Item 3");
         linkedlist.add("Item 5");
-        linkedlist.add("Item 7");
+        linkedlist.add("Item 354545");
 
         java.util.Iterator<String> iterator;
         iterator = linkedlist.iterator();
